@@ -13,6 +13,7 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 open in a web browser http://localhost:8000/docs
+http://localhost:8000/redoc
 
 # URLS
 - / 
